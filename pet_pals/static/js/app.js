@@ -24,7 +24,7 @@ function buildPlot() {
         subunitwidth: 1,
         countrywidth: 1,
         subunitcolor: "rgb(255,255,255)",
-        countrycolor: "rgb(240,255,255)"
+        countrycolor: "rgb(255,255,255)"
       }
     };
 
