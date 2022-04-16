@@ -14,4 +14,4 @@ Enter all the information and watch your pet appear on the map once the form is 
 
 Give it Try: https://pet-pals-tyler.herokuapp.com/
 
-### Lauched with Heroku.
+###### *Lauched with Heroku.*
